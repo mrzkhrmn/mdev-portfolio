@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { HiOutlineDocumentDownload } from "react-icons/hi";
-import resume from "/mirzaresume.pdf";
+import resume from "/MirzaResume.pdf";
 import { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 
