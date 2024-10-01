@@ -4,11 +4,11 @@ import { useRef } from "react";
 const items = [
   {
     id: 1,
-    title: "Todo App",
+    title: "Graphql Expense Tracker App",
     description:
-      "This is my first live project. It is an application where you list your daily or long-term to-do items so that you do not forget. Tailwindcss and redux tool kit were used while making it. It has functions such as searching for your to-do items and filtering them as completed or incomplete. Since it was the first application I used RTK, it had a great impact on me.",
-    image: "/todoApp.png",
-    href: "https://todo-app-wzba.onrender.com/",
+      "Project that you can track your expences like investment, saving and expenses. This is a MERN stack project.GraphQL was used for data management.",
+    image: "/tracker.png",
+    href: "https://expence-tracker-gql.onrender.com/",
   },
   {
     id: 2,

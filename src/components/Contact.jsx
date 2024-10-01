@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { HiOutlineDocumentDownload } from "react-icons/hi";
-import resume from "/mirzaresume.pdf";
+import resume from "/mirzaCv.pdf";
 import { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 
@@ -67,7 +67,7 @@ export const Contact = () => {
         </motion.div>
         <motion.div variants={variants}>
           <h2 className="font-semibold text-2xl">Address</h2>
-          <span className="font-[300]">Istanbul/Maltepe Turkey</span>
+          <span className="font-[300]">Istanbul/Uskudar Turkey</span>
         </motion.div>
         <motion.div variants={variants}>
           <h2 className="font-semibold text-2xl">Phone</h2>
